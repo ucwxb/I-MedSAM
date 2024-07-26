@@ -1,0 +1,8 @@
+*.pyc
+.vscode
+*.lnk
+output
+build
+dataset/*
+work_dir/*
+sam_ckp/*
