@@ -34,7 +34,7 @@ conda activate imedsam
 ```
 
 ### Preparing Dataset and checkpoint of SAM
-To validate the performance of binary polyp segmentation, we have provided the [link](https://drive.google.com/drive/folders/12Tmkjx5Xf47Kc-HUpDBZGV1H73VIifab?usp=sharing) for datasets sessile-Kvasir and CVC. 
+To validate the performance of binary polyp segmentation, we have provided the [link](https://drive.google.com/drive/folders/101LDnr7Gget7ehZQkHCNH1csD2WCCBX6?usp=sharing) for datasets sessile-Kvasir and CVC. 
 Please create a new folder named "dataset", download and unzip the two datasets into the folder.
 
 ```bash
