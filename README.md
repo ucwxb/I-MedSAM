@@ -100,7 +100,7 @@ You can also modify the param "--resume" as the path of your trained checkpoint.
 The test process also supports running on multi GPU, which is the same as training. 
 Please refer to the test scripts to change from single GPU into multi GPU.
 
-to visualize the segmentation masks, you can add the argument "--save_pic" into the scripts to save results.
+To visualize the segmentation masks, you can add the argument "--save_pic" into the scripts to save results.
 
 ## Citation
 
